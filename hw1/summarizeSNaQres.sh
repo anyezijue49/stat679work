@@ -17,3 +17,4 @@ done
 rm temp1.txt
 rm temp2.txt
 mv result.csv ../result.csv
+cd ..
