@@ -1,2 +1,7 @@
-# stat679work
-Project stared at 2016/09/26
+STAT679 homework1
+
+update 10/2
+finish homework 1 problem 1&2
+
+update 10/11:
+finish homework 1 problem 3
